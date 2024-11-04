@@ -1,2 +1,2 @@
-number = 2
+number = 4
 print("hello world!")
